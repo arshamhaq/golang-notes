@@ -1,1 +1,3 @@
-Some Simple codes for practicing Golang with a blockchain theme.
+![banner](banner.png)
+
+A small collection of Go examples and learning notes focused on exploring Golang through blockchain-related concepts.
